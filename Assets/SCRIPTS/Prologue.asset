@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ae001d279aa5304694e9dfd5390bd00, type: 3}
+  m_Name: Prologue
+  m_EditorClassIdentifier: 
+  actors: 050000000000000001000000
+  narratorName: 
+  dialogue:
+  - 'Once upon a time, there was a boy who loved the stars. '
+  - 'The small twinkling lights blanketing an otherwise dark night sky, reliable
+    even when the moon did not shine. '
+  - 'They had not visited Earth in a very long time, banished every morning by an
+    oppressive Day Star, but still watching the world below. '
+  - His father told him of an old legend, that they could grant a heart's desire
+    if wished upon.
+  - 'Once upon a time, there was a boy who watched his father waste away. '
+  - A sickness had struck the land, and his parents had fallen gravely ill. Death
+    was at their doorstep.
+  - 'Following the advice of old story told, he wished upon a star in a moment of
+    desperation. '
+  - The Guiding Star, an old symbol of his family, heard their wish and opened their
+    eyes.
+  - The Guiding Star, an old symbol of his family, heard their wish and opened their
+    eyes.
+  - The Guiding Star, an old symbol of his family, heard their wish and opened their
+    eyes.
+  - 'The prodigal child, Rian, wished to save his parents from a disastrous fate.
+    All medicine had been rendered useless, and his own magic had failed them. '
+  - 'The star, Vega, had given up their position as the North Star long ago. Now
+    awoken, they wished to see how the world changed over the course of millennium. '
+  - 'A contract of mutual benefit: Vega would heal the boy''s parents, and Rian would
+    show them the world. '
+  optionText: []
+  option0: {fileID: 0}
+  option1: {fileID: 0}
+  option2: {fileID: 0}
